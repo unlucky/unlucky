@@ -3,7 +3,7 @@ Welcome to my github profile! I'm Ron a.k.a unlucky, currently 17 years old, and
 
 ### 💡 Skills & Experience
 * ⚙️ Backend development experience with JavaScript and Python.
-* 🔩 Software development experience with C and C++, still earning.
+* 🔩 Software development experience with C and C++, still learning.
 * 💬 I'm billingual, I speak English and French fluently.
 
 ### 🌐 Contact Information
