@@ -1,5 +1,5 @@
 ## Ron
-Welcome to my github profile! I'm Ron a.k.a unlucky, currently 24 years old, and a self taught developer.
+Welcome to my github profile! I'm Ron a.k.a unlucky, currently 20 years old, and a self taught developer.
 
 ### 💡 Skills & Experience
 * ⚙️ Backend development experience with JavaScript and Python.
