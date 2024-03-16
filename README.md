@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey!</h2>
-<h4 align="center">unlucky, a computer science student with a strong interest in coding, new technologies, and scripting.</h4>
+<h3 align="center">unlucky, a computer science student with a strong interest in coding, new technologies, and scripting.</h3>
 
 <h2 align="center">Language and Tools ⚒️</h2>
 <div align="center">
